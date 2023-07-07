@@ -58,7 +58,7 @@ Your submission must include **all** of the following:
 - A `README.md` file, including
   - Explanations of the technologies used, the approach taken, installation
     instructions, unsolved problems, etc.
-  - [Follow this mini-lesson on writing documentation](https://git.generalassemb.ly/sei-embers/markdown-and-documentation)
+  - [Follow this mini-lesson on writing documentation](https://git.generalassemb.ly/sei-foxtails/markdown-and-documentation)
     for your project
 
 The URL section of your Github repo:
@@ -79,7 +79,7 @@ This project is an opportunity for two things:
 
 ## Suggested Ways to Get Started
 
-[Create your bronze, silver, and gold plan.](https://git.generalassemb.ly/sei-embers/bronze-silver-gold)
+[Create your bronze, silver, and gold plan.](https://git.generalassemb.ly/sei-foxtails/bronze-silver-gold)
 
 - **Break the project down into different components** (data, presentation,
   views, style, DOM manipulation) and brainstorm each component individually.
