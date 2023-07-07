@@ -70,12 +70,8 @@ This project is an opportunity for two things:
 
 1. Working through problems on your own. This solidifies your knowledge and is
    crucial for mastering the skills we've covered.
-1. Becoming an independent developer. Developers tend to coordinate in groups,
+2. Becoming an independent developer. Developers tend to coordinate in groups,
    but contribute individually, so this mimics the real world.
-
-> The purpose of this project is for you to show us and future employers what
-> you're capable of, so we want as much of the project to be your own,
-> independent work as possible
 
 ## Suggested Ways to Get Started
 
