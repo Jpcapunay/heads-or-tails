@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #4: Build a Game with HTML, CSS and JavaScript
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Big Project #1: Build a Game with HTML, CSS and JavaScript
 
 For your fourth project, you'll be creating a familiar game using HTML, CSS and JavaScript!
 
