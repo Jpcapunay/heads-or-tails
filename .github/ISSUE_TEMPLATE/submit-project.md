@@ -1,6 +1,6 @@
 ---
 name: Submit Project
-about: Describe this issue template's purpose here.
+about: Add your Links here
 title: ''
 labels: ''
 assignees: ''
