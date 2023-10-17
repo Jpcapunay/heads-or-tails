@@ -1,0 +1,46 @@
+#coin{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+    background: silver;
+    text-align: center;
+    line-height: 100px;
+    font-size: 2em;
+
+}
+
+/* *
+{
+    margin: 0;
+    padding:0%;
+    box-sizing: border-box;
+    font-family: fantasy;
+
+/* }
+body{
+    display: flex;
+    justify-content: center;
+    background: khaki;
+    align-items: center;
+    min-height: 100vh; */
+/* }
+.container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+    background: gray;
+    padding: 40px 60px;
+
+}
+.game {
+    width: 440px;
+    height: 440px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    
+} */ 
