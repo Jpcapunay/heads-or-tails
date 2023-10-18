@@ -41,7 +41,9 @@
     width: 100%;
     height: 100%;
     transform-style: preserve-3d;
-    transition: all 0.8s ease;
+    transition: transform 0.6s;
+    
+    /* transition: all 0.8s ease; */
 }
 
 .front {
@@ -120,3 +122,26 @@ body{
     gap: 10px;
     
 } */ 
+
+@keyframes flip {
+    0% {
+      transform: rotateY(0deg);
+    }
+    50% {
+      transform: rotateY(180deg);
+    }
+    100% {
+      transform: rotateY(360deg);
+    }
+  }
+  
+  #card {
+    /* The rest of your styling */
+    transform-style: preserve-3d;
+    backface-visibility: hidden; /* Hide the back to create the flip illusion */
+  }
+  
+  .flipCard {
+    animation: flip 0.8s linear infinite; /* Infinite will continuously play the animation */
+  }
+  
