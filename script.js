@@ -38,7 +38,7 @@ function flipCard(){
 
     // Define the number of flips (each flip is 0.6s from the CSS)
     let numberOfFlips = 5; // for example, change this to control flip times
-    let totalAnimationTime = numberOfFlips * 3000; // Total time of the animation
+    let totalAnimationTime = numberOfFlips * 600; // Total time of the animation
 
     // After some time (enough for the desired number of flips), stop the animation and alert the coin flip result.
     setTimeout(() => {
