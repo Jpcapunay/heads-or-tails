@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Big Project #1: Build a Game with HTML, CSS and JavaScript
+<!-- # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Big Project #1: Build a Game with HTML, CSS and JavaScript
 
 For your fourth project, you'll be creating a familiar game using HTML, CSS and JavaScript!
 
@@ -225,4 +225,31 @@ hours and ask an instructor for help. They're here to help you!
 
 Don't copy and paste from another source or another student or the solution
 branch. That's just going to put you at a disadvantage when you're interviewing
-for a job.
+for a job. -->
+
+Coin FLip
+
+# Card Flip Coin Simulation
+
+This Game demonstarte a card flip animation simulating a coin toss. When the player clicks on the coin, it will flip several times and at the end of the animation, an alert will show either on 'Army' or 'Marines'.
+
+## Features
+
+- Card element that triggers a flip animation on click.
+- Coin toss simulation that randomly results in 'Army' or 'Marines'.
+- Adjustable number of flips before the coin toss result is revealed.
+- An alert displaying the outcome of the coin toss after the animation.
+
+## How It Works
+
+1. A reference to a DOM element with the id of "card" is established.
+2. An event listener is added to the "card" element, which triggers the 'flipCard' function upon a click event.
+3. When activated, the `flipCard` function:
+   - Initiates the flip animation by adding the `flipCard` CSS class to the card's class list.
+   - Simulates a coin toss and logs the outcome ('Army' or 'Marines') to the console.
+   - Defines the number of flips and calculates the total animation time.
+   - Uses a `setTimeout` function to stop the animation after the calculated duration, and then displays an alert with the coin toss result.
+
+
+
+
